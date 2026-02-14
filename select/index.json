@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラストルック",
+  "base_artist": "須田景凪",
+  "createdAt": "2026-02-14T05:56:05.664014Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラストルック",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_01_ラストルック_須田景凪.txt"
+    }
+  ]
+}
